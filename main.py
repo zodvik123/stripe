@@ -5,7 +5,7 @@ import os
 
 app = Flask(__name__)
 
-STRIPE_KEY = "sk_live_YOUR_SECRET_KEY"
+STRIPE_KEY = "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"
 API_AUTH_TOKEN = "skey_2e7dcfc201ee4cb489bca5411c82b321"
 
 stripe.api_key = STRIPE_KEY
